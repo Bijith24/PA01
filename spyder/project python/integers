@@ -6,8 +6,3 @@ Created on Thu Jan  6 18:01:07 2022
 @author: bijithbalan
 """
 
-print("This program prints integers from 1 to 10")
-for I in range(1,11):
-    print(I)
-
-print("Thank you")
